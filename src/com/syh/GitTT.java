@@ -5,5 +5,6 @@ public class GitTT {
         System.out.println("hello git");
         System.out.println("hello 梁安迪");
         System.out.println("杨蕊嘉");
+        System.out.println("陈希希");
     }
 }
